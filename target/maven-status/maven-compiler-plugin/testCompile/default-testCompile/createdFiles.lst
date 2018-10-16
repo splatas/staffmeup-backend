@@ -1,0 +1,4 @@
+com\postres\staffing_follower\controller\StatusControllerTest.class
+com\postres\staffing_follower\controller\CandidateStatusControllerTest.class
+com\postres\staffing_follower\utils\FieldTest.class
+com\postres\staffing_follower\utils\TestDateDifferenceCalculator.class

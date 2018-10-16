@@ -1,0 +1,4 @@
+Ticket Nro,Project,Description,Profile,Seniority,Position,SR Created on,Start Date,Location,Status,Candidate,Requires client interview,Ready for onboarding,Priority,Aging,Real,Comment,Candidate Status,Main Area,Project,Level
+123456,TH - FI Spread,JPMC - Project 1 - Full Stack - TH,Web UI Developer,Sr,CONFIRMED,3/5/2018,3/5/2018,AR/CABA/Laminar,In Progress,Juan Perez,,,A,110,,,,GTI,,Level 4
+222222,TH CIB Macro,JPMC - Project 1 - Python Arch - TH,Python Developer,Architect,CONFIRMED,4/24/2018,9/5/2018,AR/CABA/Laminar,In Progress,Juan Perez,Yes,,A,104,,,Screening,GTI,,Level 5
+675432,TH CIB Macro,JPMC - Project 2 - Python Sr - TH,Python Developer,Sr,CONFIRMED,4/24/2018,9/5/2018,AR/CABA/Laminar,In Progress,Juan Perez,Yes,,B,104,,,Screening,GTI,,Level 4
